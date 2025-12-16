@@ -23,7 +23,12 @@ Opportunitées visées:
 - Nom
 
 ### 3. Choisir parmi différents groupes
+
 ### 4. Mécanique de tour par tour
+- Pour les combats et la chasse
+- Lorsqu'un combat ou une chasse est réussie, l'utilisateur obtien différents matériels (armes, matériel de soin, nourriture, etc.)
+- Possibilité d'abandonner un combat, mais défaite automatique
+  
 ### 5. Points d'expérience (XP)
 ### 6. Autres informations
 
