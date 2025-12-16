@@ -9,7 +9,9 @@
 
 ## Descriptions des tâches
 ### Préproduction
-<img width="672" height="138" alt="image" src="https://github.com/user-attachments/assets/823fd54a-d191-4a9a-9b8b-f923a3f14cf1" />
+1. Maquette pour toutes les actions
+2. Programmeurs, graphistes, chef de projet, testeurs, scénaristes, compositeurs
+3. Déterminer un budget
 
 ### Production
 ### Postproduction
