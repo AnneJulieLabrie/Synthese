@@ -10,6 +10,12 @@ Opportunitées visées:
 
 ## Présentation du concept
 ### 1. Le concept
+- Jeu gratuit, sur le web.
+- Jeu de gestion de ressources
+- Protégé son territoires des ennemis, conquérir celui des autres
+- Tâches quotidiennes
+- Connexion régulière pour se défendre et prendre soin des besoins de son personnage
+
 ### 2. Création d'un personnage
 ### 3. Choisir parmi différents groupes
 ### 4. Mécanique de tour par tour
