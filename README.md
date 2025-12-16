@@ -36,7 +36,6 @@ Opportunitées visées:
   
 ### 6. Autres informations
 - Répond aux attentes du public cible en donnant des informations suplémentaires sur l'histoire, sans demander trop d'efforts.
-- Permet de rencontrer d'autres fans
 - Possibilité d'abonnement premium pour avoir accès à du contenu exclusif (histoire, XP, vêtements, armes, photo de profil, etc.)
 
 ## Moodboard
