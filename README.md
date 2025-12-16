@@ -27,10 +27,7 @@
 
 ### Opération
 1. Mise à jour à tous les mois pour y ajouter du nouveau contenu (histoire, items, armes, etc.)
-
-S’assurer de répondre aux besoins des utilisateurs
-<img width="791" height="90" alt="image" src="https://github.com/user-attachments/assets/31ce0275-170b-4aa8-8927-086909e8e5b9" />
-
+2. S’assurer de répondre aux besoins des utilisateurs
 
 ## Maquette
 <img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/bc058c87-6145-403e-b006-0c98f979dab8" />
