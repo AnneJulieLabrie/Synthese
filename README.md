@@ -2,7 +2,7 @@
 Préparation d’une présentation de préproduction
 
 ## Analyse des besoins
-Public cible: les grands fans de la franchise TLOU
+Public cible: les grands fans de la franchise TLOU  
 Opportunitées visées:
 1. Donner de nouvelles informations sur l’histoire
 2. Rassembler les fans dans un seul jeu, simple et accessible
