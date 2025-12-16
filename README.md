@@ -1,7 +1,12 @@
-# The Last of Us: Survive the apocalypse
+# The Last of Us : Survive the apocalypse
 Préparation d’une présentation de préproduction
 
 ## Analyse des besoins
+Public cible: les grands fans de la franchise TLOU
+Opportunitées visées:
+1. Donner de nouvelles informations sur l’histoire
+2. Rassembler les fans dans un seul jeu, simple et accessible
+3. Plonger dans l’histoire de différents groupes
 
 ## Présentation du concept
 
