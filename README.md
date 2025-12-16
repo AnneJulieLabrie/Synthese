@@ -1,4 +1,4 @@
-# Synthese
+# The Last of Us: Survive the apocalypse
 
 ## Analyse des besoins
 
