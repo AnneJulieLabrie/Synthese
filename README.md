@@ -19,6 +19,12 @@
 3. Tester le jeu en interne
 
 ### Postproduction
+1. Assembler tout
+2. Ajouter les sons
+3. Faire des tests publics
+4. Dernières retouches
+5. Publication officielle
+
 ### Opération
 
 ## Maquette
