@@ -35,6 +35,9 @@ Opportunitées visées:
 - Plus de choix de vêtements pour son personnage
   
 ### 6. Autres informations
+- Répond aux attentes du public cible en donnant des informations suplémentaires sur l'histoire, sans demander trop d'efforts.
+- Permet de rencontrer d'autres fans
+- Possibilité d'abonnement premium pour avoir accès à du contenu exclusif (histoire, XP, vêtements, armes, photo de profil, etc.)
 
 ## Moodboard
 <img width="1080" height="1080" alt="Moodboard" src="https://github.com/user-attachments/assets/1b465dd8-aa70-45b6-9cdd-23d7d56b5a97" />
