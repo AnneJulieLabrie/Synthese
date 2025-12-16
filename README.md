@@ -14,6 +14,10 @@
 3. Déterminer un budget
 
 ### Production
+1. Développer le jeu
+2. Créé les bandes sonores et les visuels du jeu
+3. Tester le jeu en interne
+
 ### Postproduction
 ### Opération
 
