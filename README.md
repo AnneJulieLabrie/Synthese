@@ -9,12 +9,12 @@ Opportunitées visées:
 3. Plonger dans l’histoire de différents groupes
 
 ## Présentation du concept
-### Le concept
-### Création d'un personnage
-### Choisir parmi différents groupes
-### Mécanique de tour par tour
-### Points d'expérience (XP)
-### Autres informations
+### 1. Le concept
+### 2. Création d'un personnage
+### 3. Choisir parmi différents groupes
+### 4. Mécanique de tour par tour
+### 5. Points d'expérience (XP)
+### 6. Autres informations
 
 ## Moodboard
 <img width="1080" height="1080" alt="Moodboard" src="https://github.com/user-attachments/assets/1b465dd8-aa70-45b6-9cdd-23d7d56b5a97" />
