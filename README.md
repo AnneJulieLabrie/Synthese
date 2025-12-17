@@ -1,5 +1,5 @@
 # The Last of Us : Survive the apocalypse  
-Préparation d’une présentation de préproduction
+Pouvez-vous accomplir ce qu’ils ont accomplis?
 
 ## Analyse des besoins
 Public cible: les grands fans de la franchise TLOU  
