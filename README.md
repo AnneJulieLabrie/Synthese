@@ -1,5 +1,5 @@
 # The Last of Us : Survive the apocalypse  
-Pouvez-vous accomplir ce qu’ils ont accomplis?
+## Pouvez-vous accomplir ce qu’ils ont accomplis?
 
 ## Analyse des besoins
 Public cible: les grands fans de la franchise TLOU  
