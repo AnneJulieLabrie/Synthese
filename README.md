@@ -67,9 +67,9 @@ Opportunitées visées:
 <img width="1920" height="1080" alt="maquette" src="https://github.com/user-attachments/assets/d4fea432-0695-4192-b975-97d600592f6c" />
 
 ## Conclusion
-1. Ce qui rend le projet innovant
+### 1. Ce qui rend le projet innovant
    Permet d’alimenter la fan base de TLOU en donnant de nouvelles informations exclusives.
-2. Ce qui distingue le projet de la concurrence
+### 2. Ce qui distingue le projet de la concurrence
    Il n’existe pas de jeu de TLOU de ce type, ce qui le rend unique
 
 
