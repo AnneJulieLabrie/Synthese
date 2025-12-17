@@ -14,7 +14,7 @@ Opportunitées visées:
 - Jeu de gestion de ressources
 - Protégé son territoires des ennemis, conquérir celui des autres
 - Tâches quotidiennes
-- Connexion régulière pour se défendre et prendre soin des besoins de son personnage
+- Connexion régulière pour se défendre et prendre soin des besoins de son personnage (nourriture et repos)
 
 ### 2. Création d'un personnage
 - Choix de plusieurs type de vêtements
