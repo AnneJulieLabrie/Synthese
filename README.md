@@ -61,9 +61,15 @@ Opportunitées visées:
 
 ### Opération
 1. Mise à jour à tous les mois pour y ajouter du nouveau contenu (histoire, items, armes, etc.)
-2. S’assurer de répondre aux besoins des utilisateurs
+2. S’assurer de répondre aux besoins des utilisateurs.
 
 ## Maquette
 <img width="1920" height="1080" alt="maquette" src="https://github.com/user-attachments/assets/d4fea432-0695-4192-b975-97d600592f6c" />
 
 ## Conclusion
+1. Ce qui rend le projet innovant
+   Permet d’alimenter la fan base de TLOU en donnant de nouvelles informations exclusives.
+2. Ce qui distingue le projet de la concurrence
+   Il n’existe pas de jeu de TLOU de ce type, ce qui le rend unique
+
+
