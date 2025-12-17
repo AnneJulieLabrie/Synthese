@@ -13,7 +13,7 @@ Opportunitées visées:
 - Jeu gratuit, sur le web
 - Jeu de gestion de ressources
 - Protégé son territoires des ennemis, conquérir celui des autres
-- Tâches quotidiennes
+- Tâches quotidiennes (exploration, battre des PNJ, chasser, réparer, etc.)
 - Connexion régulière pour se défendre et prendre soin des besoins de son personnage (nourriture et repos)
 
 ### 2. Création d'un personnage
