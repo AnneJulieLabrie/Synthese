@@ -4,17 +4,17 @@
 ## Analyse des besoins
 Public cible: les grands fans de la franchise TLOU  
 Opportunitées visées:
-1. Donner de nouvelles informations sur l’histoire
-2. Rassembler les fans dans un seul jeu, simple et accessible
-3. Plonger dans l’histoire de différents groupes
+1. Donner de nouvelles informations sur l’histoire.
+2. Rassembler les fans dans un seul jeu, simple et accessibleé
+3. Plonger dans l’histoire de différents groupes.
 
 ## Présentation du concept
 ### 1. Le concept
 - Jeu gratuit, sur le web
 - Jeu de gestion de ressources
-- Protégé son territoires des ennemis, conquérir celui des autres
+- Protégé son territoires des ennemis, conquérir celui des autres.
 - Tâches quotidiennes (exploration, battre des PNJ, chasser, réparer, etc.)
-- Connexion régulière pour se défendre et prendre soin des besoins de son personnage (nourriture et repos)
+- Connexion régulière pour se défendre et prendre soin des besoins de son personnage (nourriture et repos).
 
 ### 2. Création d'un personnage
 - Choix de plusieurs type de vêtements
@@ -26,17 +26,17 @@ Opportunitées visées:
 
 ### 4. Mécanique de tour par tour
 - Pour les combats et la chasse
-- Lorsqu'un combat ou une chasse est réussie, l'utilisateur obtien différents matériels (armes, matériel de soin, nourriture, etc.)
-- Possibilité d'abandonner un combat, mais défaite automatique
+- Lorsqu'un combat ou une chasse est réussi, l'utilisateur obtien différents matériels (armes, matériel de soin, nourriture, etc.).
+- Possibilité d'abandonner un combat, mais défaite automatique.
   
 ### 5. Points d'expérience (XP)
-- Permet de grimper dans les rangs de son groupe (plus de pouvoir sur les autres membres, accès à plus d'informations, etc.)
-- Permet d'avoir accès à de meilleures armes
-- Plus de choix de vêtements pour son personnage
+- Permet de grimper dans les rangs de son groupe (plus de pouvoir sur les autres membres, accès à plus d'informations, etc.).
+- Permet d'avoir accès à de meilleures armes.
+- Plus de choix de vêtements pour son personnage.
   
 ### 6. Autres informations
 - Répond aux attentes du public cible en donnant des informations suplémentaires sur l'histoire, sans demander trop d'efforts.
-- Possibilité d'abonnement premium pour avoir accès à du contenu exclusif (histoire, XP, vêtements, armes, photo de profil, etc.)
+- Possibilité d'abonnement premium pour avoir accès à du contenu exclusif (histoire, XP, vêtements, armes, photo de profil, etc.).
 
 ## Moodboard
 <img width="1080" height="1080" alt="Moodboard" src="https://github.com/user-attachments/assets/1b465dd8-aa70-45b6-9cdd-23d7d56b5a97" />
@@ -60,7 +60,7 @@ Opportunitées visées:
 5. Publication officielle
 
 ### Opération
-1. Mise à jour à tous les mois pour y ajouter du nouveau contenu (histoire, items, armes, etc.)
+1. Mise à jour à tous les mois pour y ajouter du nouveau contenu (histoire, items, armes, etc.).
 2. S’assurer de répondre aux besoins des utilisateurs.
 
 ## Maquette
@@ -70,7 +70,7 @@ Opportunitées visées:
 ### 1. Ce qui rend le projet innovant
 Permet d’alimenter la fan base de TLOU en donnant de nouvelles informations exclusives.
 ### 2. Ce qui distingue le projet de la concurrence
-Il n’existe pas de jeu de TLOU de ce type, ce qui le rend unique
+Il n’existe pas de jeu de TLOU de ce type, ce qui le rend unique.
 ### 3. Pourquoi il pourrait attirer des investisseurs Kickstarter
 Ne demande pas autant d’efforts qu’un gros jeu.
   
