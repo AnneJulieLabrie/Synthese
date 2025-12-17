@@ -68,8 +68,11 @@ Opportunitées visées:
 
 ## Conclusion
 ### 1. Ce qui rend le projet innovant
-   Permet d’alimenter la fan base de TLOU en donnant de nouvelles informations exclusives.
+Permet d’alimenter la fan base de TLOU en donnant de nouvelles informations exclusives.
 ### 2. Ce qui distingue le projet de la concurrence
-   Il n’existe pas de jeu de TLOU de ce type, ce qui le rend unique
+Il n’existe pas de jeu de TLOU de ce type, ce qui le rend unique
+### 3. Pourquoi il pourrait attirer des investisseurs Kickstarter
+Ne demande pas autant d’efforts qu’un gros jeu.
+  
 
 
