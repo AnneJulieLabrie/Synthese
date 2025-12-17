@@ -64,6 +64,6 @@ Opportunitées visées:
 2. S’assurer de répondre aux besoins des utilisateurs
 
 ## Maquette
-<img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/bc058c87-6145-403e-b006-0c98f979dab8" />
+<img width="1920" height="1080" alt="maquette" src="https://github.com/user-attachments/assets/d4fea432-0695-4192-b975-97d600592f6c" />
 
 ## Conclusion
