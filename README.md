@@ -56,8 +56,12 @@ Opportunitées visées:
 ##### 4. Rattlers
 
 ##### 5. Infectés
+- Le seul groupe sans aucune hiérarchie, à la place, les joueurs progressent dans l'infection.
+- Peuvent avoir accès aux souvenirs des infectés, voir comment tout à commencé.
 
 ##### 6. Seraphites
+- Ils utilisent uniquement des armes traditionelles, comme des arcs, des faucille, des machettes, etc.)
+- Les utilisateurs qui choisissent ce groupe peuvent avoir accès aux écris du prophète.
 
 
 ### 4. Mécanique de tour par tour
