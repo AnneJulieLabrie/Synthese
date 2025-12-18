@@ -38,6 +38,12 @@ Opportunitées visées:
 4. Soldats
 5. Civils
 #### Spécifités pour chaque groupe
+##### 1. Fireflies
+##### 2. FEDRA (Federal Disaster Response Agency)
+##### 3. W.L.F. (Washington Liberation Front)
+##### 4. Rattlers
+##### 5. Infectés
+##### 6. Seraphites
 ### 4. Mécanique de tour par tour
 - Pour les combats et la chasse
 - Lorsqu'un combat ou une chasse est réussi, l'utilisateur obtien différents matériels (armes, matériel de soin, nourriture, etc.).
