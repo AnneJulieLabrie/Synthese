@@ -31,12 +31,12 @@ Opportunitées visées:
 ### 3. Choisir parmi différents groupes
 
 #### Choix entre six groupes différents
-A. Fireflies
-B. FEDRA (Federal Disaster Response Agency)
-C. W.L.F. (Washington Liberation Front)
-D. Rattlers
-E. Infectés
-F. Seraphites
+1. Fireflies
+2. FEDRA (Federal Disaster Response Agency)
+3. W.L.F. (Washington Liberation Front)
+4. Rattlers
+5. Infectés
+6. Seraphites
 
 #### Hiérarchie de groupe (les titres officiels changent pour chaque groupe)
 1. Grand chef
@@ -50,6 +50,7 @@ F. Seraphites
 ##### 1. Fireflies
 
 ##### 2. FEDRA (Federal Disaster Response Agency)
+- Les joueurs ont accès aux documents privés du gouvernement 
 
 ##### 3. W.L.F. (Washington Liberation Front)
 
