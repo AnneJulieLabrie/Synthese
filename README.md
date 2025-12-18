@@ -48,13 +48,16 @@ Opportunitées visées:
 #### Spécifités pour chaque groupe
 
 ##### 1. Fireflies
+- Seul groupe à pouvoir infilitrés d'autres groupes, tant qu'ils ne sont pas découvert
 
 ##### 2. FEDRA (Federal Disaster Response Agency)
 - Les joueurs ont accès aux documents privés du gouvernement 
 
 ##### 3. W.L.F. (Washington Liberation Front)
+- Possibilité d'élever et d'entrainer des chiens
 
 ##### 4. Rattlers
+- Seul groupe à pouvoir kidnapper des membres de d'autres groupes et les faire travailler pour eux
 
 ##### 5. Infectés
 - Le seul groupe sans aucune hiérarchie, à la place, les joueurs progressent dans l'infection.
