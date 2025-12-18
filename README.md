@@ -55,6 +55,7 @@ Opportunitées visées:
 
 ##### 3. W.L.F. (Washington Liberation Front)
 - Possibilité d'élever et d'entrainer des chiens
+- Les chiens sont considérés comme des armes supplémentaires et peuvent
 
 ##### 4. Rattlers
 - Seul groupe à pouvoir kidnapper des membres de d'autres groupes et les faire travailler pour eux
