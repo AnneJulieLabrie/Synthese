@@ -40,11 +40,16 @@ Opportunitées visées:
 
 #### Hiérarchie de groupe (les titres officiels changent pour chaque groupe)
 1. Grand chef
-2. Assistants
-3. Chefs soldats
-4. Soldats
-5. Civils
-
+- Prend les grandes décisions
+3. Assistants
+- Assiste le grand chef
+4. Chefs soldats
+- Dirigent les soldats
+5. Soldats
+- En charge de la protection 
+6. Civils
+- En charge des tâches moins agréables
+- En charge de la chasse
 #### Spécifités pour chaque groupe
 
 ##### 1. Fireflies
