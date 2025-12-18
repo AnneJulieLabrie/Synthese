@@ -30,7 +30,7 @@ Opportunitées visées:
 - Possibilité d'abandonner un combat, mais défaite automatique.
   
 ### 5. Points d'expérience (XP)
-- Permet de grimper dans les rangs de son groupe (plus de pouvoir sur les autres membres, accès à plus d'informations, etc.).
+- Permet de grimper dans les rangs de son groupe (plus de pouvoir sur les autres membres, accès à plus d'informations, meileures condition de vie, etc.).
 - Permet d'avoir accès à de meilleures armes.
 - Plus de choix de vêtements pour son personnage.
   
