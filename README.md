@@ -11,6 +11,7 @@ Opportunitées visées:
 ## Présentation du concept
 ### 1. Le concept
 - Jeu gratuit, sur le web
+- Seul ou en coop
 - Jeu de gestion de ressources
 - Protégé son territoires des ennemis, conquérir celui des autres.
 - Tâches quotidiennes (exploration, battre des PNJ, chasser, réparer, etc.)
