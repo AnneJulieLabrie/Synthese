@@ -24,6 +24,12 @@ Opportunitées visées:
 - Nom
 
 ### 3. Choisir parmi différents groupes
+#### Hiérarchie de groupe (les titres officiels changent pour chaque groupe)
+1. Grand chef
+2. Assistants
+3. Chefs soldats
+4. Soldats
+5. Civils
 
 ### 4. Mécanique de tour par tour
 - Pour les combats et la chasse
